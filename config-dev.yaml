@@ -1,2 +1,2 @@
 config:
-  info: config-dev.yam init
+  info: config-dev.yam init version=1
