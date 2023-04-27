@@ -1,2 +1,2 @@
-config: 
-    config-dev.yam init
+config:
+  info: config-dev.yam init
